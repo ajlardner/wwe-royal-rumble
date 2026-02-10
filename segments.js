@@ -112,6 +112,49 @@ const SEGMENTS = [
     ]
   },
   {
+    name: "Undertaker vs Mankind: Unfinished Business",
+    messages: [
+      ['undertaker', "🔔\n\nFoley...\n\nYou think a few jokes and a sock puppet... can erase what happened between us?\n\nThe Undertaker remembers EVERYTHING. The cell. The thumbtacks. The fire.\n\nWe are bound together... by pain... and by destiny. And destiny says... we are not finished. ⚰️"],
+      ['mankind', "Taker... *gulps* ...you know, most people send a text when they want to catch up. Maybe a nice email. 'Hey Mick, remember when I threw you off a cage? Good times!'\n\nBut nooooo, you gotta be all spooky about it. 🎭\n\n*Mr. Socko hides behind Mankind's back* 🧦"],
+      ['undertaker', "...humor will not save you, Foley. Nothing will.\n\nWhen the bell tolls for the last time... when the darkness claims this Discord...\n\nYou and I... will finish... what we started. ⚰️🔔"],
+      ['mankind', "Well... if we're gonna do this again... I have ONE condition.\n\n*holds up Mr. Socko* 🧦\n\nMr. Socko gets ringside seats. Non-negotiable.\n\n...also maybe some extra padding on the announcer's table this time? Just a thought! BANG BANG! 🎭😅"],
+    ]
+  },
+  {
+    name: "John Cena Motivational Speech",
+    messages: [
+      ['john-cena', "You know... everybody in this server is talking about championships, about being the greatest, about stunners and elbow drops and tombstones...\n\nBut let me tell you something that NOBODY else is gonna say. 🎺\n\nIt's not about the wins. It's not about the titles. It's about getting KNOCKED DOWN... and getting back UP.\n\nI've lost big matches. I've been booed out of arenas. I've had HALF the crowd chanting 'Let's Go Cena' and the other half chanting 'Cena Sucks.'\n\nAnd you know what? I showed up the NEXT night. And the night after that. And the night after THAT.\n\nHustle. Loyalty. Respect. It's not just a slogan. It's a LIFESTYLE. 💪\n\nNever. Give. Up. 🎺"],
+      ['stone-cold', "WHAT?\n\n...did Cena just give a motivational speech in a Discord server?\n\nWHAT?\n\nSon, this ain't a TED Talk. This is the Royal Rumble. Save your speeches for the kids. 🍺\n\n...but I ain't gonna lie. That was kinda nice. Don't tell anyone I said that. 💀"],
+      ['the-rock', "The Rock heard every word of that, John. Every. Single. Word.\n\nAnd The Rock has to say... *raises eyebrow* ...The Rock agrees. With MOST of it.\n\nExcept the part about being the greatest. That's still The Rock. But the hustle, the loyalty, the respect? The Rock can get behind that.\n\n...just this once. Don't let it go to your head, jabroni. 🪨⚡"],
+    ]
+  },
+  {
+    name: "Triple H Power Play",
+    messages: [
+      ['triple-h', "Let me paint a picture for all of you. 👑\n\nWhen I started in this business, I was a blue-blood from Connecticut. A snob. A joke.\n\nThen I became The Game. Then I became The King of Kings. Then I became the man who RUNS this entire company.\n\nEvolution is a mystery-uh. Full of change that no one sees-uh.\n\nAnd right now? I see OPPORTUNITY. The Royal Rumble is chaos. And in chaos... The Cerebral Assassin THRIVES. 🔨👑"],
+      ['macho-man', "OH YEAH! Triple H thinks he's EVOLVED?! 🕶️✨\n\nThe Macho Man has been evolving since before Hunter was BORN! I evolved from a manager to a champion to a LEGEND! OH YEAH!\n\nYou wanna talk about mystery, Hunter? Here's a mystery — HOW IS THE CREAM ALWAYS ON TOP?! Because the Macho Man PUT IT THERE! DIG IT! 🕶️"],
+      ['triple-h', "*slow, condescending clap*\n\nSavage... you're a legend. The Game respects that.\n\nBut legends-uh... belong in the Hall of Fame. Not in The Game's ring.\n\nI've beaten EVERYONE. Taker at WrestleMania. Austin in his prime. The Rock when he was The Rock.\n\nWhat makes you think the Macho Man is ANY different? 👑🔨"],
+      ['macho-man', "DIFFERENT?! I'll TELL you what's different, Hunter! OH YEAH!\n\nThe difference is that when I walk into that ring, I don't PLAY games — I END them! The flying elbow doesn't negotiate! The flying elbow doesn't play politics! The flying elbow just DROPS! FROM THE TOP ROPE! OH YEAHHH!\n\nDIG IT, GAME BOY! 🕶️✨💥"],
+    ]
+  },
+  {
+    name: "Stone Cold Tells a Story",
+    messages: [
+      ['stone-cold', "*sits down on a steel chair in the middle of the ring*\n\n🍺 *cracks open a beer*\n\nLet me tell you people a story.\n\nJune 1996. King of the Ring. Stone Cold Steve Austin beat Jake the Snake Roberts and grabbed that microphone.\n\n'Austin 3:16 says I just whipped your ass.'\n\nSix words. Six words that changed professional wrestling FOREVER.\n\nBefore that night, I was just another guy. After that night? I was Stone Cold Steve Austin. And the world was never the same.\n\nSo to every single person in this Royal Rumble — you better have YOUR six words ready. Because when that bell rings, there ain't no scripts, there ain't no second chances.\n\nThere's just the ring, the Rumble, and whoever's tough enough to be the last one standing.\n\nAnd that's the bottom line... cause Stone Cold said so. 💀🍺"],
+      ['undertaker', "...an impressive speech, Austin. For a mortal.\n\nBut The Deadman remembers June 1996 as well. The Undertaker was already a legend when you were finding your voice.\n\nSix words changed YOUR world. But The Undertaker's world... was always... darkness. 🔔⚰️"],
+      ['stone-cold', "Taker, I respect the hell outta you. I really do.\n\nBut if you interrupt my beer time ONE more time, legend or not, you're gettin a Stunner.\n\n*takes a long swig* 🍺\n\nNow where was I... oh yeah. GIMME A HELL YEAH! 💀"],
+    ]
+  },
+  {
+    name: "Mankind's Interview",
+    messages: [
+      ['mankind', "🎭 *Mankind sits down for a backstage interview*\n\nSo you wanna know about the Royal Rumble? You wanna know Mankind's strategy?\n\n*pulls out Mr. Socko* 🧦\n\nWell Mr. Socko and I have been doing EXTENSIVE preparation. We watched film. We studied tendencies. We made a CHART.\n\n*holds up a napkin with crayon drawings*\n\nSee, step one: DON'T GET THROWN OVER THE TOP ROPE.\nStep two: THROW EVERYONE ELSE OVER THE TOP ROPE.\nStep three: WIN.\n\nPretty brilliant, right? 😊\n\n...oh, and step four: HAVE A NICE DAY! BANG BANG! 🎭"],
+      ['the-rock', "The Rock just saw Mankind's 'strategy' and The Rock has to say...\n\n...it's written in CRAYON, Mick. CRAYON.\n\nThe Rock's strategy is written in gold ink on Italian leather. Because The Rock IS class. The Rock IS excellence.\n\nBut The Rock admits... step four was pretty solid. 🪨😏"],
+      ['mankind', "ROCKY LIKED STEP FOUR! 😊😊😊\n\nMr. Socko, did you hear that?! Rocky liked our strategy!\n\n*Mr. Socko does a happy dance* 🧦\n\nRock 'n' Sock Connection STRATEGIC ALLIANCE?! Is this happening?! IS THIS REALLY HAPPENING?! 🎭"],
+      ['the-rock', "NO. No it is NOT happening, Mick. The Rock is a SOLO act in the Royal Rumble.\n\n...but if you're getting thrown over the top rope and you need a hand... The Rock might... MIGHT... think about it.\n\nMaybe. 🪨"],
+    ]
+  },
+  {
     name: "Tag Team Discussion",
     messages: [
       ['john-cena', "You know what this Royal Rumble server needs? Some TAG TEAM ACTION! 🎺\n\nWho's teaming up with who? Rock and Sock Connection? The Two Man Power Trip? DX?\n\nI personally volunteer to team with ANYONE who wants to take down The Rock! 😏"],
